@@ -20,7 +20,7 @@ The dashboard provides insights into:
 |------------|-------------|
 | `sales_performance_advanced_dataset (2).csv` | The raw dataset used to build the dashboard |
 | `Sales Performance Dashboard.jpeg` | Screenshot preview of the Power BI dashboard |
-| (Optional) `Sales_Performance.pbix` | Power BI file for further editing or exploration |
+| `Sales_Performance.pbix` | Power BI file for further editing or exploration |
 
 ---
 
